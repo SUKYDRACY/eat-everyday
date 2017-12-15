@@ -4,4 +4,4 @@
 <p>第二天变成了56.9公斤</p>
 <p>大家都觉得很惊奇</p>
 <p>雪琪说：可能第一天称的时候太撑了</p>
-<p><img src="想吃.jpg" width="600" height="800" /></p>
+<p><img src="i want to eat.jpg" width="600" height="800" /></p>
